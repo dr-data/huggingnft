@@ -1,6 +1,6 @@
 # Hugging NFT
 
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/huggingnft/main/docs/banner.png" alt="Banner" width="1200"/>
+<img src="https://raw.githubusercontent.com/dr-data/huggingnft/main/docs/banner.png" alt="Banner" width="1200"/>
 
 ---
 
@@ -9,9 +9,9 @@ checkpoint!
 
 ---
 
-![Example](https://raw.githubusercontent.com/AlekseyKorshuk/cdn/main/huggingnft/giphy.gif)
+![Example](https://raw.githubusercontent.com/dr-data/cdn/main/huggingnft/giphy.gif)
 
-🤗 More examples are available here: [EXAMPLES.md](https://github.com/AlekseyKorshuk/huggingnft/blob/main/docs/EXAMPLES.md).
+🤗 More examples are available here: [EXAMPLES.md](https://github.com/dr-data/huggingnft/blob/main/docs/EXAMPLES.md).
 
 > This preview does not show the real power of this project because of a strong decrease in video quality! Otherwise, the file size would exceed all limits.
 
@@ -21,16 +21,16 @@ checkpoint!
 
 You can easily use Space: [link](https://huggingface.co/spaces/huggan/huggingnft)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/AlekseyKorshuk/huggingnft)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/drdata/huggingnft)
 
 ## Images and Interpolation
 
 ### Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlekseyKorshuk/huggingnft/blob/main/huggingnft/lightweight_gan/generate.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dr-data/huggingnft/blob/main/huggingnft/lightweight_gan/generate.ipynb)
 
 Follow this
-link: [link](https://colab.research.google.com/github/AlekseyKorshuk/huggingnft/blob/main/huggingnft/lightweight_gan/generate.ipynb)
+link: [link](https://colab.research.google.com/github/dr-data/huggingnft/blob/main/huggingnft/lightweight_gan/generate.ipynb)
 
 ### Terminal
 
@@ -93,10 +93,10 @@ check the corresponding section.
 
 ### Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlekseyKorshuk/huggingnft/blob/main/huggingnft/lightweight_gan/train.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dr-data/huggingnft/blob/main/huggingnft/lightweight_gan/train.ipynb)
 
 Follow this
-link: [link](https://colab.research.google.com/github/AlekseyKorshuk/huggingnft/blob/main/huggingnft/lightweight_gan/train.ipynb)
+link: [link](https://colab.research.google.com/github/dr-data/huggingnft/blob/main/huggingnft/lightweight_gan/train.ipynb)
 
 ### Terminal
 
@@ -128,19 +128,19 @@ In the broadest sense, it allows to apply the style of a collection to that of a
 
 ### Jupyter notebook
 The training procedure is provided in a simplified format in the jupyter notebook 
-[train_cyclegans.ipynb](https://github.com/AlekseyKorshuk/huggingnft/blob/main/huggingnft/cyclegan/train_cyclegans.ipynb)    
+[train_cyclegans.ipynb](https://github.com/dr-data/huggingnft/blob/main/huggingnft/cyclegan/train_cyclegans.ipynb)    
 
 here, hyperparameter optimization is available by adding multiple parameters to each list of hyperparameters shown in the notebook.   
 Furthermore, a section in such notebook is dedicated to the training of all possible translations by means of the datasets provided in the [huggingnft organization page](https://huggingface.co/huggingnft)
 
 
 ### Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlekseyKorshuk/huggingnft/blob/main/huggingnft/cyclegan/train_cyclegans.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dr-data/huggingnft/blob/main/huggingnft/cyclegan/train_cyclegans.ipynb)
 
 
 
 ### Terminal
-Firstly, after cloning [this repository](https://github.com/AlekseyKorshuk/huggingnft.git), run   
+Firstly, after cloning [this repository](https://github.com/dr-data/huggingnft.git), run   
 ```bash
 cd huggingnft
 pip install .
@@ -248,9 +248,9 @@ python huggingnft/datasets/collect_dataset.py --collection_name cyberkongz --use
 # Model overfitting
 
 There is a possibility that you can overtrain the model. In such case you can revert best commit with this
-notebook: [link](https://colab.research.google.com/github/AlekseyKorshuk/huggingnft/blob/main/huggingnft/lightweight_gan/select_best_model.ipynb)
+notebook: [link](https://colab.research.google.com/github/dr-data/huggingnft/blob/main/huggingnft/lightweight_gan/select_best_model.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlekseyKorshuk/huggingnft/blob/main/huggingnft/lightweight_gan/select_best_model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dr-data/huggingnft/blob/main/huggingnft/lightweight_gan/select_best_model.ipynb)
 
 > With great power comes great responsibility!
 
