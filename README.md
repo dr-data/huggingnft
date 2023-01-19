@@ -254,18 +254,4 @@ notebook: [link](https://colab.research.google.com/github/AlekseyKorshuk/hugging
 
 > With great power comes great responsibility!
 
-# About
-
-_Built by Aleksey Korshuk, Christian Cancedda and Hugging Face community with love_ ❤️
-
-[![Follow](https://img.shields.io/github/followers/AlekseyKorshuk?style=social)](https://github.com/AlekseyKorshuk)
-[![Follow](https://img.shields.io/github/followers/chris1nexus?style=social)](https://github.com/Chris1nexus)
-
-[![Follow](https://img.shields.io/twitter/follow/alekseykorshuk?style=social)](https://twitter.com/intent/follow?screen_name=alekseykorshuk)
-[![Follow](https://img.shields.io/twitter/follow/chris_cancedda?style=social)](https://twitter.com/intent/follow?screen_name=chris_cancedda)
-
-Star project repository:
-
-[![GitHub stars](https://img.shields.io/github/stars/AlekseyKorshuk/huggingnft?style=social)](https://github.com/AlekseyKorshuk/huggingnft)
-
 
